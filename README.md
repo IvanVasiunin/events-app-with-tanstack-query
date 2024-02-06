@@ -1,8 +1,26 @@
-# React + Vite
+# About
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Working on an application to create, edit and delete events using the TanStack Query library. 
 
-Currently, two official plugins are available:
+<div align="center">
+    <img src="https://github.com/IvanVasiunin/Breadcrumbsevents-app-with-tanstack-query/blob/main/public/app_UI.jpg" alt="UI_snapshot" />
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## For developers
+
+This project was created with vite
+
+In order to run the project:
+- Clone the project to your computer
+- Enter the backend folder using the <code>cd backend</code> command
+- Install dependencies with: <code>npm install</code>
+- To start backend, use the command: <code>npm run start</code>
+- In main folder install all dependencies with: <code>npm install</code>
+- To start your project, use the command: <code>npm run dev</code>
+
+## Stack and Tools
+
+- HTML5
+- CSS modules
+- Javascript
+- React.js
