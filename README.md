@@ -3,7 +3,7 @@
 Working on an application to create, edit and delete events using the TanStack Query library. 
 
 <div align="center">
-    <img src="https://github.com/IvanVasiunin/Breadcrumbsevents-app-with-tanstack-query/blob/main/public/app_UI.jpg" alt="UI_snapshot" />
+    <img src="https://github.com/IvanVasiunin/events-app-with-tanstack-query/blob/main/public/app_UI.jpg" alt="UI_snapshot" />
 </div>
 
 ## For developers
